@@ -38,9 +38,9 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.framework.version>3.1.2.RELEASE</spring.framework.version>
-		<org.springframework.integration-version>2.1.3.RELEASE</org.springframework.integration-version>
-		<org.springframework.amqp-version>1.0.0.RELEASE</org.springframework.amqp-version>
+		<spring.framework.version>3.2.9.RELEASE</spring.framework.version>
+		<org.springframework.integration-version>4.2.13.RELEASE</org.springframework.integration-version>
+		<org.springframework.amqp-version>1.5.7.RELEASE</org.springframework.amqp-version>
         <slf4j.version>1.6.1</slf4j.version>
         <org.cloudfoundry-group>org.cloudfoundry</org.cloudfoundry-group>
         <org.cloudfoundry-version>0.8.1</org.cloudfoundry-version>
@@ -129,7 +129,7 @@
             <dependency>
                 <groupId>commons-collections</groupId>
                 <artifactId>commons-collections</artifactId>
-                <version>3.1</version>
+                <version>3.2.2</version>
             </dependency>
             <dependency>
                 <groupId>commons-io</groupId>
