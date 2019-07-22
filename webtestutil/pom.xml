@@ -28,22 +28,22 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>8.1.5.v20120716</version>
+            <version>9.2.28.v20190418</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-webapp</artifactId>
-            <version>8.1.5.v20120716</version>
+            <version>9.2.28.v20190418</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-plus</artifactId>
-            <version>8.1.5.v20120716</version>
+            <version>9.2.28.v20190418</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-annotations</artifactId>
-            <version>8.1.5.v20120716</version>
+            <version>9.2.28.v20190418</version>
         </dependency>
     </dependencies>
 </project>
