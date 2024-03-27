@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "cloudfoundry": "0.1.0",
-    "express": "2.5.8",
+    "express": "4.19.2",
     "jqtpl": "1.1.0",
     "amqp": "0.1.3"
     },
